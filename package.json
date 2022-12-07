@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "dotenv": "^8.2.0",
-    "serverless": "^1.56.1",
+    "serverless": "^3.25.1",
     "stripe": "^7.11.0",
     "stripe-client": "^1.1.5",
     "uuid": "^3.3.3"
